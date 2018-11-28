@@ -1,0 +1,30 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+
+}
+.div1{
+    height:100% ;
+    width: 20%;
+    background-color: brown;
+    position: absolute;
+}
+.div2{
+    height:100%;
+    width: 60%;
+    background-color:purple;
+    position: relative;
+    left:20%;
+}
+
+.div3{
+    height: 100%;
+    width: 20%;
+    background-color:yellow;
+    position: absolute;
+    top: 0%;
+    left:80%;
+
+}
